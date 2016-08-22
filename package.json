@@ -1,0 +1,14 @@
+{
+  "name": "api-project",
+  "version": "1.0.0",
+  "description": "an api project",
+  "main": "my-api.js",
+  "scripts": {
+    "test": "command"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "henry chukwu",
+  "license": "ISC"
+}
